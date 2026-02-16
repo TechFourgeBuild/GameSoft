@@ -108,7 +108,7 @@ A feature-rich **Java-based gaming platform** that brings classic hand games to 
 1. Launch the application
 2. Choose option `1` to proceed
 3. Select `n` for new account
-4. Create username (format: `@YourName`, 4-8 characters)
+4. Create username (format: `TechFourgeBuild`, 4-8 characters)
 
 ### Game Selection
 - **Option 1:** Morra - Guess the sum of fingers shown by both players
