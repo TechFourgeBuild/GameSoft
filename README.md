@@ -175,5 +175,5 @@ Before starting a game, choose:
 ```
 
 ## 📠 Want to Checkout the Algorithm 
-   - Visit this url [GameSoftAlgo](https://drive.google.com/file/d/12fB7Gr7pix74x4QnSzob2_pHbtte7AzJ/view?usp=drive_link)
+   - Visit this url :- [GameSoftAlgo](https://drive.google.com/file/d/12fB7Gr7pix74x4QnSzob2_pHbtte7AzJ/view?usp=drive_link)
 
